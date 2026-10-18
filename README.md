@@ -27,9 +27,9 @@ Dibuat oleh Adam.
 
 ## Panduan Penggunaan Lokal
 
-Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berikut:
+Untuk menjalankan proyek ini dikomputer lokal Anda, ikuti langkah-langkah berikut :
 
-1. Kloning repositori ini:
+1. Clone repositori ini :
    ```bash
-   git clone [https://github.com/rizkimuhamadadm/twibbon-generator.git](https://github.com/rizkimuhamadadm/twibbon-generator.git)
+   git clone https://github.com/rizkimuhamadadm/twibbon-generator.git
    ```
